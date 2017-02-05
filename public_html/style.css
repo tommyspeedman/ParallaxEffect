@@ -1,0 +1,15 @@
+/* Author: Tommy */
+
+.content{
+    min-height: 2000px;
+    padding: 400px 100px 200px 100px;
+    background-color: #fafafa;
+}
+
+.green-leaf{
+    border: 1px solid #dedede;
+    height: 200px;
+    margin-bottom: 400px;
+    background-image: url(images/green-leaf.png);
+    background-position: center center;
+}
